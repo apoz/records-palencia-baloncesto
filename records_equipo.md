@@ -1,0 +1,10 @@
+# Records de equipo de Palencia baloncesto
+![Histórico máximas anotaciones totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Anotacion_Equipo.png)
+![Histórico máximas valoraciones totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Valoraciones_Equipo.png)
+![Histórico máximos rebotes totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Rebotes_Equipo.png)
+![Histórico máximos rebotes defensivos totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Rebotes_Defensivos_Equipo.png)
+![Histórico máximos rebotes ofensivos totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Rebotes_Ofensivos_Equipo.png)
+![Histórico máximas asistencias totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Asistencias_Equipo.png)
+![Histórico máximos mates totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Mates_Equipo.png)
+![Histórico máximas faltas recibidas totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Faltas_Recibidas_Equipo.png)
+![Histórico máximas faltas cometidas totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Faltas_Cometidas_Equipo.png)
