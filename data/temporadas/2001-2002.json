@@ -19,22 +19,6 @@
       "id_equipo_visitante": "52",
       "boxscore": {
         "periodos": {
-          "1 C": {
-            "puntos_local": "0",
-            "puntos_visitante": "0"
-          },
-          "2 C": {
-            "puntos_local": "0",
-            "puntos_visitante": "0"
-          },
-          "3 C": {
-            "puntos_local": "0",
-            "puntos_visitante": "0"
-          },
-          "4 C": {
-            "puntos_local": "0",
-            "puntos_visitante": "0"
-          }
         },
         "datos": {
           "fecha": "16/09/2001 - 18:00",

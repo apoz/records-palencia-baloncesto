@@ -2431,7 +2431,7 @@
             "direccion": "Alcorcón (Madrid)"
           }
         },
-        "local_totales": null,
+        "local_totales": {},
         "local_jugadores": [],
         "visitante_totales": {
           "titular": "",
