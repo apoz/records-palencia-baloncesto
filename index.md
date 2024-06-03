@@ -7,5 +7,6 @@
 ## Records de equipo
 [Records de equipo](records_equipo.md)
 
-
+## Records acumulados individuales
+[Records acumulados individuales](records_individuales_acumulados.md)
 
