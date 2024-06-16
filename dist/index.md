@@ -10,3 +10,5 @@
 ## Records acumulados individuales
 [Records acumulados individuales](records_individuales_acumulados.md)
 
+## Records individuales por partido
+[Records individuales por partido](records_individuales_partidos.md)
