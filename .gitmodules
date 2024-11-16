@@ -1,0 +1,4 @@
+[submodule "dist_good"]
+	path = dist_good
+	url = git@github.com:apoz/records-palencia-baloncesto.git
+	branch = gh-pages
