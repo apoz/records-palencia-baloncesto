@@ -12,3 +12,6 @@
 
 ## Records individuales por partido
 [Records individuales por partido](records_individuales_partidos.md)
+
+## Records individuales por temporadas
+[Records individuales por temporadas](records_individuales_temporadas.md)

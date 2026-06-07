@@ -33,3 +33,7 @@
 ![Histórico máximas recuperaciones totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Recuperaciones_Equipo.png)
 ![Histórico mejores anotaciones en cuarto totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Mejores_Cuartos_Equipo.png)
 ![Histórico peores anotaciones en cuarto totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Peores_Cuartos_Equipo.png)
+![Histórico peores anotaciones en una mitad totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Peores_Mitades_Equipo.png)
+![Histórico mejores anotaciones en una mitad totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Mejores_Mitades_Equipo.png)
+![Histórico peores diferencias en un cuarto totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Peores_Cuartos_Diferencia_Equipo.png)
+![Histórico mejores diferencias en un cuarto totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Mejores_Cuartos_Diferencia_Equipo.png)
