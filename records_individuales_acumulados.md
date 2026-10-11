@@ -1,6 +1,5 @@
 # Records individuales acumulados equipo de Palencia baloncesto
 ![Histórico máxima anotacion acumulada individual](imgs/Palencia_Baloncesto_Ranking_Historico_Anotacion_Individual.png)
-![Histórico máximo minutos disputados acumulado individual](imgs/Palencia_Baloncesto_Ranking_Historico_Minutos_Individual.png)
 ![Histórico máximos rebotes acumulados individual](imgs/Palencia_Baloncesto_Ranking_Historico_Rebotes_Individual.png)
 ![Histórico máximos rebotes ofensivos acumulados individual](imgs/Palencia_Baloncesto_Ranking_Historico_Rebotes_Ofensivos_Individual.png)
 ![Histórico máximos rebotes defensivos acumulados individual](imgs/Palencia_Baloncesto_Ranking_Historico_Rebotes_Defensivos_Individual.png)
@@ -21,3 +20,4 @@
 ![Histórico máximos T3 intentados acumulados individual](imgs/Palencia_Baloncesto_Ranking_Historico_T3_Intentados_Individual.png)
 ![Histórico máximos T3 convertidos acumulados individual](imgs/Palencia_Baloncesto_Ranking_Historico_T3_Convertidos_Individual.png)
 ![Histórico máximos Porcentaje T3 acumulados individual (min 10 T3)](imgs/Palencia_Baloncesto_Ranking_Historico_T3_Porcentaje_Individual.png)
+![Histórico máximo minutos disputados acumulado individual](imgs/Palencia_Baloncesto_Ranking_Historico_Minutos_Individual.png)

@@ -13,5 +13,6 @@
 ![Histórico máximos TL convertidos individuales en un partido](imgs/Palencia_Baloncesto_Ranking_Historico_TL_Convertidos_Individual_Partido.png)
 ![Histórico máximos T2 intentados individuales en un partido](imgs/Palencia_Baloncesto_Ranking_Historico_T2_Intentados_Individual_Partido.png)
 ![Histórico máximos T2 convertidos individuales en un partido](imgs/Palencia_Baloncesto_Ranking_Historico_T2_Convertidos_Individual_Partido.png)
+![Histórico min % T2 convertidos individuales en un partido](imgs/Palencia_Baloncesto_Ranking_Historico_Min_Porcentaje_T2_Convertidos_Individual_Partido.png)
 ![Histórico máximos T3 intentados individuales en un partido](imgs/Palencia_Baloncesto_Ranking_Historico_T3_Intentados_Individual_Partido.png)
 ![Histórico máximos T3 convertidos individuales en un partido](imgs/Palencia_Baloncesto_Ranking_Historico_T3_Convertidos_Individual_Partido.png)

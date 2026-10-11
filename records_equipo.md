@@ -37,3 +37,4 @@
 ![Histórico mejores anotaciones en una mitad totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Mejores_Mitades_Equipo.png)
 ![Histórico peores diferencias en un cuarto totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Peores_Cuartos_Diferencia_Equipo.png)
 ![Histórico mejores diferencias en un cuarto totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Mejores_Cuartos_Diferencia_Equipo.png)
+![Histórico máximas posesiones totales del equipo](imgs/Palencia_Baloncesto_Ranking_Historico_Posesiones_Equipo.png)
